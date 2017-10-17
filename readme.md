@@ -14,7 +14,7 @@
 <br>
 
 ## <a>&sect; 目标导向</a>
-> 本教程以实战项目驱动，最终实现一个完整的小程序
+> 本教程以实战项目驱动，以沪江英语微信小程序项目框架为基础，最终还原一个完整的小程序
 
 列表页面：请求接口，并展示列表页面数据
 <div align="center">
@@ -57,6 +57,7 @@
    - [详情-页面制作](https://github.com/ikcamp/wechat-xcx-tutorial/tree/ch4-1)
    - [详情-视图渲染](https://github.com/ikcamp/wechat-xcx-tutorial/tree/ch4-2)
    - [详情-功能完善](https://github.com/ikcamp/wechat-xcx-tutorial/tree/ch4-3)
+- 第五章：[课后作业练习](https://github.com/ikcamp/wechat-xcx-tutorial/tree/%E6%95%99%E7%A8%8B%E4%BD%9C%E4%B8%9A)  
 
 
 <br>
